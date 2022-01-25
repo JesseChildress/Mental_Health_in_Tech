@@ -22,6 +22,9 @@ A highly accurate prediction (80%) can be made, based on the data from this data
 
   * About 33% of respondents have a family history of mental health.
 
+<img width="391" alt="Family History" src="https://user-images.githubusercontent.com/63165294/151021937-93c3f5ac-713e-4064-b76d-2107b15a1245.png">
+
+
   * About 50% have sought treatment for mental health.
 
   * About 33% would not be comfortable talking to a supervisor about mental health.
@@ -33,6 +36,9 @@ A highly accurate prediction (80%) can be made, based on the data from this data
   * The vast majority of employees (1000+ in this dataset) would not mention mental illness in an interview, but many would be open to talking about it with a supervisor (600+ in this dataset).
 
   * Many who would not talk to a supervisor would talk to a coworker.
+
+<img width="412" alt="Talk to Coworkers" src="https://user-images.githubusercontent.com/63165294/151022030-8bf8e5ec-8033-4ec1-933e-9320bbae7b53.png">
+
 
   * Whether or not a person feels comfortable talking to a supervisor is not correlated to whether or not they have been treated for mental illness. Although not visualized in this project, the same is true about talking to coworkers, so we can expand to say that whether a person feels comfortable talking about mental health at work is not correlated to whether or not they have been treated for mental illness.
 
